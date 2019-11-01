@@ -1,4 +1,5 @@
-# -
-Я Димачка, мне 19 годиков
-Я из деревни Костанай
-Воооот
+# Lol
+My name is Dima
+from KZ
+That's all
+XD
