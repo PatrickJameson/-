@@ -3,11 +3,7 @@ Type "copyright", "credits" or "license()" for more information.
 >>> A=24
 >>> B=214
 >>> C=2
->>> print ("Max value:, max(A, B, C))
-       
-SyntaxError: EOL while scanning string literal
 >>> print ("Max value: ", max(A, B, C))
 Max value:  214
 >>> print ("Min value: ", min(A, B, C))
 Min value:  2
->>> 
