@@ -8,4 +8,3 @@ Type "copyright", "credits" or "license()" for more information.
 19/102019
 >>> print (date[2]+"/"+date[1]+"/"+date[0])
 19/10/2019
->>> 
