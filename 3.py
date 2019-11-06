@@ -11,4 +11,3 @@ Type "copyright", "credits" or "license()" for more information.
 Perimeter - 21.0
 >>> print("Area-",S)
 Area- 17.41228014936585
->>> 
